@@ -1,0 +1,14 @@
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/bin/Debug/net7.0/GitHubTest
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/bin/Debug/net7.0/GitHubTest.deps.json
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/bin/Debug/net7.0/GitHubTest.runtimeconfig.json
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/bin/Debug/net7.0/GitHubTest.dll
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/bin/Debug/net7.0/GitHubTest.pdb
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/GitHubTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/GitHubTest.AssemblyInfoInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/GitHubTest.AssemblyInfo.cs
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/GitHubTest.csproj.CoreCompileInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/GitHubTest.dll
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/refint/GitHubTest.dll
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/GitHubTest.pdb
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/GitHubTest.genruntimeconfig.cache
+/Users/zahidafsar/Documents/Codestack 2024/First Level/GitHubTest/obj/Debug/net7.0/ref/GitHubTest.dll
